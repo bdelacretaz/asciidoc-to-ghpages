@@ -1,5 +1,5 @@
-Playing with asciidoctor to PDF conversion
-==========================================
+Le titre du livre, tu vois Jeanne ça marche!
+============================================
 ////
 Big ol' comment
 
@@ -19,6 +19,8 @@ Dan Allen <thedoc@asciidoctor.org>
 //:max-width: 800px
 //:doctype: book
 //:sectids!:
+
+Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour ça.
 
 This is a demonstration of {library} {asciidoctor-version}.
 And this is the preamble of this document.
