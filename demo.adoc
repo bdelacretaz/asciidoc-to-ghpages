@@ -24,7 +24,7 @@ Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour
 == L'Île d'Elbe c'était joli, mais Piombino pas trop
 
 .Le Port de Piombino
-[caption="Voici une légende, ou bien? ",link=https://www.perdu.com]
+[caption="Voici une légende, ou bien? ",link=http://www.perdu.com]
 image::piombino.jpg[]
 
 == Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
