@@ -21,8 +21,11 @@ after_failure:
 
 after_success:
   - cd output ; mv README.html index.html ; cp -R ../images images
-  - git init
-  - git config user.name "${GH_USER_NAME}"
-  - git config user.email "{GH_USER_EMAIL}"
-  - git add . ; git commit -m "Deploying to GitHub Pages from Travis CI"
-  - git push --force --quiet "https://${GH_TOKEN}@github.com/${GH_REPO}.git" master:gh-pages
+  
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard, marked secure
+  on:
+    branch: master
