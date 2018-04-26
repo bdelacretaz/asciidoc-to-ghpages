@@ -1,5 +1,5 @@
-Asciidoctor Demo
-================
+Playing with asciidoctor to PDF conversion
+==========================================
 ////
 Big ol' comment
 
@@ -22,6 +22,8 @@ Dan Allen <thedoc@asciidoctor.org>
 
 This is a demonstration of {library} {asciidoctor-version}.
 And this is the preamble of this document.
+
+Let's see how this looks as a PDF and ebook.
 
 ifdef::env-github[]
 ++++
@@ -140,12 +142,12 @@ after this brief interruption.
 
 == ...and we're back!
 
-Want to see a image:tiger.png[Tiger]?
+.Piombino
+[#img-sunset]
+[caption="Voici une légende, ou bien?: ",link=https://www.perdu.com]
+image::piombino.jpg[]
 
-Do you feel safer with the tiger in a box?
-
-.Tiger in a box
-image::tiger.png[]
+== And an included file
 
 include::includes/include.adoc[]
 
