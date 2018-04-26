@@ -25,4 +25,4 @@ after_success:
   - git config user.name "${GH_USER_NAME}"
   - git config user.email "{GH_USER_EMAIL}"
   - git add . ; git commit -m "Deploying to GitHub Pages from Travis CI"
-  - git push --force --quiet "https://${GH_TOKEN}@github.com/${GITHUB_REPO}.git" master:gh-pages
+  - git push --force --quiet "https://${GH_TOKEN}@github.com/${GH_REPO}.git" master:gh-pages
