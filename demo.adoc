@@ -28,9 +28,16 @@ Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour
 [caption="Voici une légende, ou bien? ",link=https://www.perdu.com]
 image::piombino.jpg[]
 
+== Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
+_(non mais c'est un test)_
+
+Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
+
 == Muzot 
 
-Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler. Entre commissions, arrosage de rosiers et soins aux jardins, elle aide la gouvernante des lieux, Mlle Baumgartner, qui est elle-même au service de M. Reinhart, locataire puis propriétaire du château. Quelques années auparavant, le poète Rilke a résidé à Muzot et y a passé les dernières années de sa vie (de 1921 à 1926). Depuis, M. Reinhart le prête régulièrement à des artistes en
+Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
+
+Entre commissions, arrosage de rosiers et soins aux jardins, elle aide la gouvernante des lieux, Mlle Baumgartner, qui est elle-même au service de M. Reinhart, locataire puis propriétaire du château. Quelques années auparavant, le poète Rilke a résidé à Muzot et y a passé les dernières années de sa vie (de 1921 à 1926). Depuis, M. Reinhart le prête régulièrement à des artistes en
 recherche d'un lieu calme où créer et écrire. Tante Nelly y restera employée pendant 6 ans, et reviendra souvent en visite ou pour donner des coups de main.
 
 Le château de Muzot est situé sur une colline, à proximité du village de Veyras, lui- même proche de Sierre. Plus que d'un château, il s'agit en fait d'une tour, dernier vestige d'un édifice plus grand datant du XIIIe siècle. C'est une grosse bâtisse de 4 étages en pierres de taille, couverte d'un toit à deux pans soutenus par un mur crénelé. L'emplacement est calme, un peu isolé, perché en hauteur sur la route qui mène de Veyras à Mièges. La route semble souvent longue à tante Nelly qui doit acheminer à pieds les victuailles pour tous les habitants. Plus tard, M. Reinhart lui fournit un vélo, mais cela ne rend pas l'accès moins raide...
