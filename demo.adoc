@@ -5,10 +5,9 @@ Big ol' comment
 
 sittin' right 'tween this here title 'n header metadata
 ////
-Dan Allen <thedoc@asciidoctor.org>
-:description: A demo of Asciidoctor. This document +
-              exercises numerous features of AsciiDoc +
-              to test Asciidoctor compliance.
+Bertrand Delacrétaz <bdelacretaz@codeconsult.ch>
+:description: On essaie de publier un petit bouquin avec +
+              ce truc
 :library: Asciidoctor
 :idprefix:
 :numbered:
@@ -21,6 +20,15 @@ Dan Allen <thedoc@asciidoctor.org>
 //:sectids!:
 
 Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour ça.
+
+== L'Île d'Elbe c'était joli, mais Piombino pas trop
+
+.Le Port de Piombino
+[#img-sunset]
+[caption="Voici une légende, ou bien? ",link=https://www.perdu.com]
+image::piombino.jpg[]
+
+== and the various asciidoc demos
 
 This is a demonstration of {library} {asciidoctor-version}.
 And this is the preamble of this document.
@@ -142,12 +150,7 @@ We'll be right with you...
 after this brief interruption.
 ////
 
-== ...and we're back!
-
-.Piombino
-[#img-sunset]
-[caption="Voici une légende, ou bien?: ",link=https://www.perdu.com]
-image::piombino.jpg[]
+== ...and we're back, with an included file
 
 == And an included file
 
