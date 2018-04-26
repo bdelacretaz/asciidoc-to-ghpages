@@ -27,10 +27,7 @@ Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour
 [caption="Voici une légende, ou bien? ",link=http://www.perdu.com]
 image::piombino.jpg[]
 
-== Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
-_(non mais c'est un test)_
-
-Tante Nelly a 15 ans et demi quand elle est, en 1936, engagée au château de Muzot, près de Sierre, pour y travailler.
+<<<
 
 == Muzot 
 
