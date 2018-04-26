@@ -17,6 +17,9 @@ This blog post describes the workflow used to do it:
 
 * http://mgreau.com/posts/2016/03/28/asciidoc-to-gh-pages-with-travis-ci-docker-asciidoctor.html
 
+Basically, you need to activate this repository for builds on https://travis-ci.org and define the environment
+variables having the `GH_` prefix in `.travis.yml` file, in the settings of that Travis CI build.
+
 [[asciidoc_ghpages_travis_docker]]
 .Convert your AsciiDoc files and Publish the HTML/PDF output to GH Pages thanks to Travis and Asciidoctor with Docker
 image::http://mgreau.com/posts/images/cover-asciidoc-ghpages.svg[AsciiDoc to Github Pages with Travis and Docker Asciidoctor,950]
