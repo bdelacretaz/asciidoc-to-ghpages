@@ -19,8 +19,6 @@ Bertrand Delacrétaz <bdelacretaz@codeconsult.ch>
 //:doctype: book
 //:sectids!:
 
-Bon tout le reste c'est juste des essais de asciidoctor qu'on peut utiliser pour ça.
-
 == L'Île d'Elbe c'était joli, mais Piombino pas trop
 
 .Le Port de Piombino
@@ -42,9 +40,12 @@ locataire puis propriétaire du château. Quelques années auparavant, le poète
 à 1926). Depuis, M.Reinhart le prête régulièrement aux artistes en recherche d'un lieu calme où créer et écrire. Tante Nelly y restera employée pendant
 6 ans, et reviendra souvent en visite ou pour donner des coups de main.
 
+<<<
+
 == and now the various asciidoc demos, that we can use as examples...
 
 This is a demonstration of {library} {asciidoctor-version}.
+
 And this is the preamble of this document.
 
 Let's see how this looks as a PDF and ebook.
