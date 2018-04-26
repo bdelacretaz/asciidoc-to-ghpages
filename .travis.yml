@@ -1,3 +1,4 @@
+# build and publish PDF output to gh-pages
 sudo: required
 
 services:
@@ -26,6 +27,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard, marked secure
+  github_token: $GITHUB_TOKEN # Set this in the travis-ci.org settings for this build
   on:
     branch: master
